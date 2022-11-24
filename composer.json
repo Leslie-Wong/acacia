@@ -23,7 +23,7 @@
         "doctrine/dbal": "^3.3",
         "illuminate/support": "^9.2",
         "inertiajs/inertia-laravel": "^0.6",
-        "laravel/breeze": "^v1.15",
+        "laravel/jetstream": "^v2.12",
         "laravel/framework": "^v9.5.1",
         "laravel/sanctum": "^3.0",
         "laravel/scout": "^9.4",
